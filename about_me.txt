@@ -1,1 +1,2 @@
 "My name is malak Ziad.I enjoy reading, and learning new things.My goal is to use git and github in professional way." 
+"Favorite Hobby: I love painting because it helps me relax and express creativity." 
